@@ -1,0 +1,11 @@
+title: "ZEPHYRIA — Game Design Document"
+subtitle: "Version 1.0 — Document Investisseur"
+author: "[NOM DU STUDIO]"
+date: "Avril 2026"
+lang: fr
+toc-title: "Table des Matières"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyfoot[C]{ZEPHYRIA — GDD v1.0 — Confidentiel}
+  - \fancyfoot[R]{\thepage}
