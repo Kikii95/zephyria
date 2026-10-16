@@ -136,11 +136,24 @@ ZEPHYRIA est un jeu solo sans fonctionnalités en ligne obligatoires. L'expositi
 - **Stockage UE** : si télémétrie activée, données hébergées exclusivement sur serveurs UE
 - **Pas de transfert hors UE** : aucun sous-traitant data hors espace européen
 
-### 18.5 Accessibilité (Directive 2019/882 — EAA)
+### 18.5 Loi SREN 2024 (Sécuriser et Réguler l'Espace Numérique)
+
+La Loi n° 2024-449 du 21 mai 2024 (dite « Loi SREN ») introduit un cadre réglementaire pour les **objets numériques monétisables (JONUM)** — items in-game échangeables contre de la valeur réelle, NFT, et mécaniques assimilables à des jeux de hasard.
+
+**Impact sur ZEPHYRIA : Néant.** Le jeu ne contient aucun :
+- Objet numérique monétisable ou échangeable
+- Mécanisme de loot box ou gacha
+- NFT ou blockchain
+- Système de paris ou de hasard monétisé
+- Marché secondaire d'items
+
+Le modèle premium pur de ZEPHYRIA le place explicitement hors du champ d'application de la Loi SREN. Cette conformité est un avantage réglementaire à mentionner dans les dossiers FAJV et CIJV.
+
+### 18.6 Accessibilité (Directive 2019/882 — EAA)
 
 La Directive européenne sur l'accessibilité (European Accessibility Act), transposée en droit français et applicable depuis le 28 juin 2025, impose des exigences d'accessibilité aux produits et services numériques. Bien que son application exacte aux jeux vidéo soit en cours de clarification, ZEPHYRIA intègre proactivement des mesures d'accessibilité détaillées en section 5.9.
 
-### 18.6 Droit du Travail
+### 18.7 Droit du Travail
 
 Les contrats de travail et conditions d'emploi respectent la **convention collective SYNTEC** (IDCC 1486), applicable à la majorité des studios de jeux vidéo en France :
 
@@ -149,7 +162,7 @@ Les contrats de travail et conditions d'emploi respectent la **convention collec
 - Heures supplémentaires : rémunérées conformément à la convention, pas de crunch non compensé
 - Clauses PI conformes aux Art. L113-9 (logiciel) et L131-3 (autres œuvres) du CPI dans chaque contrat
 
-### 18.7 Checklist de Conformité
+### 18.8 Checklist de Conformité
 
 | # | Obligation | Statut | Responsable |
 |---|---|---|---|
@@ -167,3 +180,5 @@ Les contrats de travail et conditions d'emploi respectent la **convention collec
 | 12 | Privacy policy / écran consentement | ⬜ M20 | Lead dev |
 | 13 | Dépôt APP (code source, builds) | ⬜ M18 (Alpha) | Lead dev |
 | 14 | Audit PI tiers (moteur, middleware, assets) | ⬜ M20 | Avocat PI |
+| 15 | Vérification non-applicabilité Loi SREN (JONUM) | ✅ Confirmé | Direction |
+| 16 | Dépôt marque international USPTO (si marché US) | ⬜ Conditionnel | Avocat PI |

@@ -99,3 +99,77 @@ Deux extensions narratives sont prévues, conçues pour prolonger l'expérience 
 | Nintendo (pas d'équivalent) | N/A | Vente directe uniquement |
 
 L'inclusion dans un service d'abonnement n'est envisagée qu'après la fenêtre de vente premium initiale (6-12 mois) pour ne pas cannibaliser les ventes plein tarif.
+
+### 4.7 Stratégie Marketing & Communication
+
+#### Philosophie
+
+ZEPHYRIA est un jeu visuellement spectaculaire dont les séquences de vol se prêtent naturellement au partage sur les réseaux sociaux. La stratégie marketing exploite cet avantage en privilégiant le contenu visuel organique et la construction communautaire sur le long terme.
+
+#### Plan en 4 Phases
+
+**Phase 1 — Fondation (M12-M18, budget : 20 000€)**
+
+| Action | Budget | KPI |
+|---|---|---|
+| Création page Steam (avec trailer teaser) | 5 000€ | Page live |
+| Ouverture réseaux sociaux (X/Twitter, TikTok, Instagram) | 2 000€ | 500 followers à M18 |
+| Devlogs mensuels (YouTube/TikTok) — captures de vol, progression art | 3 000€ | 5 000 vues/devlog |
+| Inscription festivals indie (Steam Next Fest, gamescom Indie Arena, Day of the Devs) | 10 000€ | 2-3 festivals confirmés |
+
+**Phase 2 — Visibilité (M18-M22, budget : 60 000€)**
+
+| Action | Budget | KPI |
+|---|---|---|
+| Trailer de gameplay (production professionnelle) | 25 000€ | 100 000 vues en 1 semaine |
+| Démo jouable Steam Next Fest (J-6 mois) | 5 000€ (QA démo) | 10 000 wishlists pendant le fest |
+| Relations presse — envoi de preview builds | 10 000€ | 15+ previews publiées |
+| Campagne influenceurs (micro + mid-tier, gaming cozy/aventure) | 15 000€ | 20 créateurs, 500K impressions |
+| Contenu communautaire (fan art, concours, behind-the-scenes) | 5 000€ | 3 000 followers combinés |
+
+**Phase 3 — Lancement (M22-M25, budget : 90 000€)**
+
+| Action | Budget | KPI |
+|---|---|---|
+| Trailer de lancement (production professionnelle) | 30 000€ | 500 000 vues en 1 mois |
+| Campagne publicitaire digitale (YouTube, Reddit, TikTok Ads) | 30 000€ | 2M impressions, CTR > 1,5% |
+| Envoi clés presse + influenceurs (50-80 clés) | 5 000€ | 30+ reviews jour 1, Metacritic > 75 |
+| Présence événements (Paris Games Week, IndieCade Europe) | 15 000€ | Couverture média |
+| Community management renforcé (freelance dédié) | 10 000€ | Réponse < 24h, Discord actif |
+
+**Phase 4 — Post-Lancement (M25+, budget : 30 000€)**
+
+| Action | Budget | KPI |
+|---|---|---|
+| Gestion communauté (Discord, Reddit, Steam) | 10 000€ | Rétention communauté > 60% |
+| Communication DLC (teasers, trailers) | 10 000€ | Conversion DLC > 25% |
+| Participation Game Awards / nominations | 5 000€ | 1+ nomination indie |
+| Soldes stratégiques (Steam Sales, PS Store) | 5 000€ | Pics de ventes à chaque solde |
+
+#### Budget Marketing Total : 200 000€
+
+| Phase | Période | Budget |
+|---|---|---|
+| Fondation | M12-M18 | 20 000€ |
+| Visibilité | M18-M22 | 60 000€ |
+| Lancement | M22-M25 | 90 000€ |
+| Post-Lancement | M25+ | 30 000€ |
+| **Total** | | **200 000€** |
+
+#### KPIs de Succès
+
+| Indicateur | Cible J-6 mois | Cible J1 | Cible J+6 mois |
+|---|---|---|---|
+| Wishlists Steam | 30 000 | 50 000 | — |
+| Reviews Steam | — | 100+ (> 80% positives) | 500+ |
+| Metacritic / OpenCritic | — | > 75 | — |
+| Ventes (scénario modéré) | — | 40 000 (M1) | 80 000 |
+| Communauté Discord | 1 000 | 3 000 | 5 000 |
+| Taux conversion DLC | — | — | > 25% |
+
+#### Ce Que ZEPHYRIA Ne Fera Pas en Marketing
+
+- ❌ Pas de pré-commandes avec bonus exclusifs (anti-consommateur)
+- ❌ Pas de fausse rareté ou FOMO marketing
+- ❌ Pas d'embargos presse longs (confiance dans le produit)
+- ❌ Pas de publicité trompeuse (le trailer montre le jeu réel)

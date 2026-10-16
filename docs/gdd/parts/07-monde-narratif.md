@@ -290,9 +290,16 @@ Le jeu ne force aucune option. Le joueur agit. Les deux dénouements sont trait�
 
 - **Âge** : 18 ans
 - **Rôle** : Apprenti Veilleur des Vents, fraîchement lié à son Souffleur
-- **Personnalité** : Curieux, têtu, idéaliste. Préfère observer et comprendre plutôt qu'obéir. Maladroit dans les interactions sociales, éloquent quand il parle du ciel et du vent.
-- **Arc** : De l'innocence obéissante à la rébellion informée. Nael commence par faire confiance à l'Ordre des Veilleurs et finit par les défier — non par colère, mais par responsabilité.
-- **Relation à Zéphir** : Le lien définit le personnage. Nael est plus courageux quand Zéphir est près de lui. Ses doutes s'apaisent en vol.
+- **Origines** : Orphelin élevé par Hessa sur Île-Souffle. N'a jamais connu ses parents — on lui a dit qu'ils étaient tombés dans le Voile lors d'une mission de maintenance. Cette histoire, qu'il découvrira fausse dans l'Acte 2, est le premier mensonge de l'Ordre qu'il débusque.
+- **Personnalité** : Curieux au point de l'imprudence — le genre à voler vers un courant inconnu juste pour voir où il mène. Têtu dans ses convictions mais pas agressif — il argumente plutôt qu'il se dispute. Idéaliste mais pas naïf : il comprend que les gens mentent, il refuse simplement d'accepter que ce soit nécessaire. Maladroit dans les interactions sociales au sol — phrases trop longues, silences mal placés, humour que personne ne comprend. Mais en vol, il se transforme : précis, confiant, éloquent dans ses gestes. Le ciel est sa langue maternelle, le sol sa langue étrangère.
+- **Voix interne** (exprimée dans le Carnet de Nael) : Nael écrit comme il pense — en digressions, avec des dessins dans les marges, des questions sans réponses, et des théories qu'il rature puis réécrit. Ses notes deviennent plus sombres et plus concises au fil du jeu, reflétant la perte progressive de son innocence.
+- **Peurs** : La chute (paradoxal pour un Veilleur — il vole parfaitement mais le vide en dessous le terrorise). La solitude (il a grandi isolé et craint de perdre Zéphir plus que tout). Le silence (il associe l'absence de vent à la mort).
+- **Arc narratif détaillé** :
+  - **Acte 1** : Nael est obéissant par habitude, pas par conviction. La liaison avec Zéphir lui donne un premier goût de liberté qui le rend impatient face aux règles. Quand l'île tremble, sa curiosité prend le dessus sur la prudence.
+  - **Acte 2** : La découverte des mensonges successifs (ses parents, l'origine du monde, la passivité des Veilleurs) le brise progressivement. Il devient plus silencieux, plus déterminé. Sa relation avec Hessa se fissure — il ne peut pas pardonner le silence de son mentor. Mais c'est Lirae qui le recentre : comprendre n'est pas trahir, c'est le contraire.
+  - **Acte 3** : Nael ne descend pas dans le Voile par bravoure — il descend parce qu'il ne peut plus vivre en sachant et en ne faisant rien. C'est la même passivité qu'il reprochait aux Veilleurs. Le choix final n'est pas entre deux options techniques — c'est entre deux façons de vivre avec la vérité.
+- **Relation à Zéphir** : Le lien définit le personnage. Nael est plus courageux quand Zéphir est près de lui. Ses doutes s'apaisent en vol. Mais la relation n'est pas unilatérale : dans l'Acte 3, c'est Zéphir qui hésite avant la plongée dans le Voile, et c'est Nael qui le rassure — inversion du rôle de l'Acte 1 où Zéphir tirait Nael vers l'aventure.
+- **Ce que Nael n'est pas** : Pas un « élu ». Pas un héros de prophétie. N'importe quel Veilleur curieux aurait pu faire ce qu'il fait. Sa seule particularité est qu'il a posé la question que les autres refusaient de poser.
 
 #### Zéphir — Le Souffleur
 

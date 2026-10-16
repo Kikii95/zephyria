@@ -94,7 +94,40 @@ Basé sur les performances de titres comparables dans le même créneau :
 | Accessibilité (pas de combat) | ★★★★★ | ★★★★★ | ★★☆☆☆ | ★★★★★ | ★★★★☆ | ★★★★★ |
 | Art direction distinctive | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★★★ | ★★★☆☆ | ★★★★★ |
 
-### 3.5 Unique Selling Points (USP)
+### 3.5 Analyse SWOT
+
+| | **Favorable** | **Défavorable** |
+|---|---|---|
+| **Interne** | **Forces** | **Faiblesses** |
+| | Créneau aérien inexploité en pleine durée | Pas de prototype validé (sensation de vol théorique) |
+| | Combinaison mécanique inédite (vol + compagnon + narration environnementale) | Équipe à constituer (aucun membre nommé) |
+| | Éligibilité CIJV + FAJV = réduction du risque financier | Budget serré pour le scope visé (2M€ / 24 mois) |
+| | Direction artistique distinctive et virale | Dépendance à UE5 (5% royalties, optimisation Switch 2) |
+| | Zéro combat = audience élargie (PEGI 7) | Absence de combat peut réduire l'attrait pour certains segments |
+| **Externe** | **Opportunités** | **Menaces** |
+| | Fatigue open-world → demande de mondes denses et compacts | Saturation indie Steam (14 000+ jeux/an) |
+| | Croissance marché cozy (+14% CAGR) sans offre aérienne | Annonce possible d'un concurrent AAA aérien |
+| | Switch 2 installée à 30-40M d'ici 2028 | Performance UE5 sur Switch 2 non garantie |
+| | Game Pass / PS Plus = revenu garanti + visibilité | Pression sur les prix indie (course aux soldes) |
+| | Aides françaises (CIJV, FAJV, BPI) structurellement avantageuses | FAJV non garanti (commission sélective) |
+
+### 3.6 Performances Financières des Comparables
+
+| Titre | Studio | Budget estimé | Ventes | Revenu estimé | ROI estimé | Leçon pour ZEPHYRIA |
+|---|---|---|---|---|---|---|
+| **Journey** (2012) | thatgamecompany | ~2M$ (Sony funded) | 10M+ (lifetime) | ~100M$ | >50x | La beauté + l'émotion se vendent massivement |
+| **Outer Wilds** (2019) | Mobius Digital | ~5M$ | 4M+ | ~80M$ | ~16x | L'exploration-puzzle sans combat trouve son public |
+| **Ori 2** (2020) | Moon Studios | ~15M$ (Xbox funded) | 5M+ | ~120M$ | ~8x | L'esthétique distinctive est un multiplicateur commercial |
+| **AER: Memories of Old** (2017) | Forgotten Key | ~500K$ | 200-500K | ~5M$ | 5-10x | Le vol en oiseau plaît, mais 2h de contenu limite les ventes |
+| **The Falconeer** (2020) | Tomas Sala (solo) | ~200K$ | 100-200K | ~4M$ | ~10x | Le monde vide tue la rétention malgré un bon concept |
+| **Sky: CotL** (2019) | thatgamecompany | ~20M$ | 260M+ dl | 200M$+ | ~10x | Le vol social est un marché massif (mais F2P) |
+| **Stonefly** (2021) | Flight School Studio | ~1M$ | 50-100K | ~1,5M$ | 1-1,5x | Gameplay lent + combat frustrant = échec commercial relatif |
+
+*Sources : SteamDB, Video Game Insights, rapports financiers publics, estimations VG Insights.*
+
+**Enseignement synthétique** : Les jeux d'aventure aérienne qui réussissent partagent trois traits — sensation de mouvement exceptionnelle, densité de contenu, et esthétique distinctive. Ceux qui échouent compromettent sur au moins un de ces trois axes. ZEPHYRIA les adresse tous les trois par design.
+
+### 3.7 Unique Selling Points (USP)
 
 **USP 1 — Premier jeu d'aventure aérien de pleine durée fait main**
 Aucun jeu ne combine vol physique + monde ouvert aérien dense + 12-15 heures de contenu hand-crafted.
@@ -105,7 +138,7 @@ Zéphir n'est pas une monture — c'est un compagnon qui grandit, réagit, et av
 **USP 3 — L'exploration verticale comme genre nouveau**
 ZEPHYRIA crée un nouveau sous-genre : l'exploration verticale. Le monde a trois dimensions d'exploration signifiantes — pas seulement un plan horizontal avec de la hauteur cosmétique.
 
-### 3.6 Timing de Sortie
+### 3.8 Timing de Sortie
 
 **Fenêtre visée : T4 2028**
 
@@ -116,7 +149,7 @@ ZEPHYRIA crée un nouveau sous-genre : l'exploration verticale. Le monde a trois
 | Cycle AAA adventure | Pas de concurrent AAA aérien annoncé dans cette fenêtre |
 | Maturité du marché cozy | Le marché cozy sera mature mais pas saturé dans le segment aérien |
 
-### 3.7 Stratégie de Distribution
+### 3.9 Stratégie de Distribution
 
 | Plateforme | Priorité | Fenêtre | Notes |
 |---|---|---|---|

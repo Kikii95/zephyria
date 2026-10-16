@@ -50,7 +50,9 @@ Les **droits moraux** (paternité, intégrité) restent inaliénables conformém
 |---|---|---|---|---|
 | **Dépôt de marque « ZEPHYRIA »** — France | INPI, classes 9 et 41 | 190€ + 40€/classe = 270€ | Dès validation du nom | À faire |
 | **Dépôt de marque « ZEPHYRIA »** — UE | EUIPO, classes 9, 28 et 41 | 850€ (1 classe) + 50€ + 150€ = 1 050€ | Après dépôt INPI | À faire |
-| **Recherche d'antériorité** | INPI + EUIPO (via avocat) | 500€ | Avant dépôt | **Prioritaire** |
+| **Dépôt de marque « ZEPHYRIA »** — International | USPTO (États-Unis), classes 9, 28, 41 | ~1 200$ (TEAS Plus) | Si expansion marché US confirmée | Planifié |
+| **Dépôt de marque « ZEPHYRIA »** — Japon | JPO, classes 9, 28, 41 | ~30 000¥ (~200€) | Si localisation JP envisagée | Optionnel |
+| **Recherche d'antériorité** | INPI + EUIPO + USPTO (via avocat) | 800€ | Avant dépôt | **Prioritaire** |
 | **Dépôt APP** (code source, builds) | Agence pour la Protection des Programmes | ~200€ | Phase Alpha (M18) | Planifié |
 | **Dépôt GDD + concept art** | INPI (enveloppe Soleau numérique) ou APP | 15-200€ | Immédiat | À faire |
 
